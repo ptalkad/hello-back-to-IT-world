@@ -1,2 +1,3 @@
 # hello-back-to-IT-world
 my rebirth in IT
+I'm back to learning programming that I so need to get back into full-time, real-money-paying job....
